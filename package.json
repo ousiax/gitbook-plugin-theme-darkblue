@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-theme-darkblue",
   "description": "Dark blue theme for GitBook",
-  "version": "0.2.0-pre.4",
+  "version": "0.2.0-pre.7",
   "engines": {
     "gitbook": ">=3.0.0"
   },
